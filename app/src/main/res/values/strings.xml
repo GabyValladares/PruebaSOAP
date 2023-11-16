@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PruebaSOAP</string>
+    <string name="txtCodigo">Código:</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtApellido">Apellido:</string>
+    <string name="txtMail">Mail:</string>
+
+
+</resources>
